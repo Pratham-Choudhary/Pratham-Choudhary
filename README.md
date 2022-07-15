@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pratham-Choudhary
-- 👀 I’m interested in Coding Languages; like:- C++, Python, Java Script etc.
-- 🌱 I’m currently learning C++ Language
+- 🌱 I’m currently learning C++, Algorithm, Data Structure.
 - 📫 You can Reach me on my Email:- Prathamc164btecaiml2025@kccitm.edu.in
 
 I'm here to learn and gain some knowledge.
